@@ -12,9 +12,7 @@ public class Hello {
         int age = 17;
         int salary = 3920;
 
-        while(true) {
 
-        }
 
         System.out.println(age);
         System.out.println(salary + age);
